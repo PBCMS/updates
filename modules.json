@@ -1,6 +1,7 @@
 [
     {
         "name": "Sample Module",
+        "system": "SampleModule",
         "description": "A basic sample module for PBCMS",
         "author": "PBCMS developers",
         "version": "1.0.0",
