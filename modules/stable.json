@@ -4,9 +4,9 @@
         "module": "sample-module",
         "description": "A basic sample module for PBCMS",
         "author": "PBCMS developers",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "repository": "https://github.com/pbcms/sample-module",
-        "latest": "https://github.com/pbcms/sample-module/archive/refs/tags/1.0.1.zip",
+        "latest": "https://github.com/pbcms/sample-module/archive/refs/tags/1.0.2.zip",
         "license": "GPLv3"
     }
 ]
