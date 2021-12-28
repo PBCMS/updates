@@ -8,5 +8,15 @@
         "repository": "https://github.com/pbcms/sample-module",
         "latest": "https://github.com/pbcms/sample-module/archive/refs/tags/1.0.2.zip",
         "license": "GPLv3"
+    },
+    {
+        "name": "External authentication",
+        "module": "external-auth",
+        "description": "Provides support for external authentication.",
+        "author": "PBCMS developers",
+        "version": "1.0.0",
+        "repository": "https://github.com/pbcms/external-auth",
+        "latest": "https://github.com/pbcms/external-auth/archive/refs/tags/1.0.0.zip",
+        "license": "GPLv3"
     }
 ]
