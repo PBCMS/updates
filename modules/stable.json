@@ -16,7 +16,7 @@
         "author": "PBCMS developers",
         "version": "1.0.4",
         "repository": "https://github.com/pbcms/external-auth",
-        "latest": "https://github.com/pbcms/external-auth/archive/refs/tags/1.0.3.zip",
+        "latest": "https://github.com/pbcms/external-auth/archive/refs/tags/1.0.4.zip",
         "license": "GPLv3"
     },
     {
