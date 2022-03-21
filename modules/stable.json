@@ -14,7 +14,7 @@
         "module": "external-auth",
         "description": "Provides support for external authentication.",
         "author": "PBCMS developers",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "repository": "https://github.com/pbcms/external-auth",
         "latest": "https://github.com/pbcms/external-auth/archive/refs/tags/1.0.3.zip",
         "license": "GPLv3"
