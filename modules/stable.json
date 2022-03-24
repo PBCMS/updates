@@ -28,5 +28,15 @@
         "repository": "https://github.com/kearfy/link-shortener",
         "latest": "https://github.com/kearfy/link-shortener/archive/refs/tags/1.0.0.zip",
         "license": "GPLv3"
+    },
+    {
+        "name": "Basic mailer",
+        "module": "basic-mailer",
+        "description": "Basic mailer module which utilizes PHPMailer to ensure deliverability.",
+        "author": "PBCMS developers",
+        "version": "1.0.0",
+        "repository": "https://github.com/pbcms/basic-mailer",
+        "latest": "https://github.com/pbcms/basic-mailer/archive/refs/tags/1.0.0.zip",
+        "license": "GPLv3"
     }
 ]
